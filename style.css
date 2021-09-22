@@ -1,0 +1,76 @@
+.model{
+    text-align: center;
+}
+.model-heading{
+    font-family: "Proxima Nova", sans-serif;
+    font-size: 17px;
+}
+.model-chk-text{
+    font-family: "Proxima Nova", sans-serif;
+    font-size: 17px;
+    
+}
+.model-label{
+    margin-right: 10.5%;
+    font-family: "Proxima Nova", sans-serif;
+    font-size: 17px;
+}
+.model-label2{
+    margin-right: 8.4%;
+    font-size: 17px;
+    font-family: "Proxima Nova", sans-serif;
+}
+.model-text-box{
+    padding: 23px 43px;
+    border-radius: 5px
+}
+.modelChk{
+    padding: 12px;
+    padding-left: 150px;
+}
+.model-dropdown{
+    padding: 12px 76px;
+    font-family: "Proxima Nova", sans-serif;
+    font-size: 17px;
+    /* border-radius: 5px */
+
+}
+.model-btn1{
+    /* width: 110px;
+    padding:12px;
+    border-radius: 10px;
+    height: 40px;
+    border: 1px solid;
+    color: white;
+    background: rgb(0, 76, 255); */
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    /* margin-left: 15rem; */
+    font-family: "Proxima Nova", sans-serif;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.model-btn2{
+    /* width: 110px;
+    padding:12px;
+    border-radius: 10px;
+    height: 40px;
+    border: 1px solid;
+    color: white;
+    background: blue; */
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    /* margin-left: 15rem; */
+    font-family: "Proxima Nova", sans-serif;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.model-btn{
+    padding: 7px;
+}
